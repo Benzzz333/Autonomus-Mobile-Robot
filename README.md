@@ -28,10 +28,6 @@ The autonomous logic evaluates sensor thresholds to dictate motion:
 3. Open the `.pro` file in Qt Creator, build, and run the application.
 4. Input the ESP32 Gateway IP (default: `192.168.4.1`) and click **Connect**.
 
-### Project Documentation
-* **Live Demo Video:** [Insert Link Here]
-* **Schematic Diagram:** [Insert Link/Image Here]
-* **Full Final Report:** [Insert Link Here]
-
 ---
+
 *Developed for End of Semester Robotics Final Project.*
